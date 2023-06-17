@@ -15,8 +15,6 @@ Enes Yagci
 
 # 🎯 Project Overview
 Welcome to the Bridging Communities project repository! This project aims to provide an innovative online platform designed to connect refugees with local Germans. The platform is purposed to facilitate integration through mutual idea exchange, event organization, and offering multiple networking opportunities. This README file serves as your guide for understanding the project's mission, its unique features, and the steps to get started.
-![image](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/a5f96d6c-c2d1-4d4a-bd19-41101fc934bc)
-
 
 # 🎁 Key Features
 ## 🙋 User Profiles
