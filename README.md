@@ -31,4 +31,7 @@ We offer a comprehensive repository of resources, including language learning ma
 
 # 🚀 Getting Started
 Open your web browser and navigate to  to access the Bridging Communities platform.
-  https://bit.ly/3qUf9cb
+
+[![Beschreibung des Bildes](![image](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/94aa398b-ea61-456d-879a-bd42f4ef6676)
+)]([Link/zum/Prototyp](https://www.figma.com/proto/Bh0qLYWoM1rLfgYPjzitlN/Group7---Entrepreneur-(Copy)?type=design&node-id=104-45&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A45))
+
