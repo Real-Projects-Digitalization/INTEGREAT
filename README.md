@@ -1,5 +1,5 @@
 # Project Integrate 
-![image](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/3f484e36-fed8-4c54-bcbf-e116b602b66f)
+![MainImage](images/MainImage.png)
 
 
 # 🎯Our Vision
@@ -12,11 +12,7 @@ Refugees often face a plethora of challenges including communication barriers, l
 We offer Integrate, a platform that strives to bridge the gap between refugees and local Germans. Through our features like event discovery, event creation, user profiles, and more, we empower refugees to overcome their challenges and thrive. Our platform is designed to serve a diverse range of users. Whether you are a refugee struggling to integrate into a new society, an NGO worker trying to help refugees settle, or a local resident seeking to extend your social network and understanding of different cultures, Integrate is your go-to solution.
 
 
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/f392b5dc-0b78-4f86-a0fc-b559b1f913f2" width="150" height="300">
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/be96a6c9-e29d-4d3a-a88e-8e89e7c637aa" width="150" height="300">
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/d70928d6-8cc1-4981-9427-60db8d7427ca" width="150" height="300">
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/8a48970e-d08e-40b6-a0c5-2f10b32db21a" width="150" height="300">
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/fb9aac04-aad6-4579-9f55-a716921dbe65" width="150" height="300">  
+<img src=images/Discover.png width="150" height="300"> <img src=images/EventImage.png width="150" height="300"><img src=images/User.png width="150" height="300"><img src=images/CreateEvent.png width="150" height="300"><img src=images/Contacts.png width="150" height="300">
 
 # Key Features  
 🎫 Discover Events  
@@ -61,23 +57,45 @@ Lieber Tabelle oder Text? ...
     <th> University </th>
   </tr>
   <tr>
+    <td> Alesja </td>
+    <td> Kopylova </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
+  <tr>
+    <td> Victor </td>
+    <td> Rebhan </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
+  <tr>
+    <td> Huyen </td>
+    <td> Than Ta </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
+  <tr>
+    <td> Tobias </td>
+    <td> Heinzlmair </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
+  <tr>
     <td> Daniel </td>
     <td> Selewski </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
+  <tr>
+    <td> Enes </td>
+    <td> Yagci </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
 </table>
 
-Alesja Kopylova  
-Victor Rebhan  
-Huyen Than Ta  
-Tobias Heinzlmair  
-Daniel Selewski  
-Enes Yagci  
-
-
 # Thank you for being a part of our journey! Let's Integrate for a better world.
-![image](https://github.com/Real-Projects-Digitalization/INTEGREAT/assets/56035923/1c5c7995-f062-49ee-8b48-28bbab52fa30)
+![Pitch](images/Pitch.png)
 
 # 📚 Documentation
 You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
