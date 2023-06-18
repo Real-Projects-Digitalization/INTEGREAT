@@ -1,6 +1,5 @@
 # Project Integrate 
-<img src="/images/MainImage.png" alt="MainImage.png">
-
+<img src="images/MainImage.png" alt="MainImage.png">
 
 # 🎯Our Vision
 Welcome to the Bridging Communities project repository! This project aims to provide an innovative online platform designed to connect refugees with local Germans. The platform is purposed to facilitate integration through mutual idea exchange, event organization, and offering multiple networking opportunities. This README file serves as your guide for understanding the project's mission. At Integrate, we envision a world where no one is isolated or left behind due to language, cultural, or social barriers. Our mission is to empower refugees, providing them with the means to overcome communication barriers, expand their social networks, combat social isolation, and challenge prejudice.
