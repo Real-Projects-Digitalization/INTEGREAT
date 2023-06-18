@@ -42,10 +42,6 @@ Have a look through all the new friends that you’ve just made.
 # 🚀 Getting Started
 You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876) for yourself. 
 
-
-# 📚 Documentation
-You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
-
 # 💬 Frequently Asked Questions
 Frequently asked questions you can find [here.](https://github.com/Real-Projects-Digitalization/INTEGREAT/blob/main/FAQ)
 
@@ -55,6 +51,23 @@ You can access our GitHub page [here.](https://github.com/Real-Projects-Digitali
 # 🤝 Team  
 Our project is brought to life by a dedicated team of visionaries and innovators:  
 
+Lieber Tabelle oder Text? ... 
+
+<table>
+  <tr>
+    <th> Name </th>
+    <th> Surname </th>
+    <th> Course of study </th>
+    <th> University </th>
+  </tr>
+  <tr>
+    <td> Daniel </td>
+    <td> Selewski </td>
+    <td> Business Informatics </td>
+    <td >University of Applied Sciences Munich </td>
+  </tr>
+</table>
+
 Alesja Kopylova  
 Victor Rebhan  
 Huyen Than Ta  
@@ -62,8 +75,10 @@ Tobias Heinzlmair
 Daniel Selewski  
 Enes Yagci  
 
-<br></br>
 
 # Thank you for being a part of our journey! Let's Integrate for a better world.
 ![image](https://github.com/Real-Projects-Digitalization/INTEGREAT/assets/56035923/1c5c7995-f062-49ee-8b48-28bbab52fa30)
+
+# 📚 Documentation
+You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
 
