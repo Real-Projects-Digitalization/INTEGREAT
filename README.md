@@ -50,8 +50,6 @@ You can access our GitHub page [here.](https://real-projects-digitalization.gith
 # 🤝 Team  
 Our project is brought to life by a dedicated team of visionaries and innovators:  
 
-Lieber Tabelle oder Text? ... 
-
 <table>
   <tr>
     <th> Name </th>
