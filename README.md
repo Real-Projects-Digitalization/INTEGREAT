@@ -1,5 +1,6 @@
 # Project Integrate 
 ![MainImage](images/MainImage.png)
+<img src="/images/MainImage.png" alt="MainImage">
 
 
 # 🎯Our Vision
