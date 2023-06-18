@@ -46,6 +46,9 @@ Frequently asked questions you can find [here.](https://github.com/Real-Projects
 # 🌍 Our GitHub Page
 You can access our GitHub page [here.](https://real-projects-digitalization.github.io/INTEGREAT/)  
 
+# 📚 Documentation
+You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
+
 # 🤝 Team  
 Our project is brought to life by a dedicated team of visionaries and innovators:  
 
@@ -53,6 +56,7 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <th> Name </th>
     <th> Surname </th>
+    <th> Github user </th>
     <th> Course of study </th>
     <th> University </th>
   </tr>
@@ -83,6 +87,7 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <td> Daniel </td>
     <td> Selewski </td>
+    <td> DangleDan </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
@@ -97,6 +102,5 @@ Our project is brought to life by a dedicated team of visionaries and innovators
 # Thank you for being a part of our journey! Let's Integrate for a better world.
 ![Pitch](images/Pitch.png)
 
-# 📚 Documentation
-You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
+
 
