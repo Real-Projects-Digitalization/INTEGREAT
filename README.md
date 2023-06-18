@@ -44,8 +44,10 @@ You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRF
 
 
 # 📚 Documentation
-You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)  
+You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
 
+# 💬 Frequently Asked Questions
+Frequently asked questions you can find [here.](https://github.com/Real-Projects-Digitalization/INTEGREAT/blob/main/FAQ)
 
 # 🌍 Our GitHub Page
 You can access our GitHub page [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/page)  
