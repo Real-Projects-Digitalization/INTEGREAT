@@ -77,7 +77,7 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <td> Tobias </td>
     <td> Heinzlmair </td>
-    <td> Business Informatics </td>
+    <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
