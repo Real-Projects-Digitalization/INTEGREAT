@@ -16,7 +16,6 @@ We offer Integrate, a platform that strives to bridge the gap between refugees a
 <img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/be96a6c9-e29d-4d3a-a88e-8e89e7c637aa" width="150" height="300">
 <img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/d70928d6-8cc1-4981-9427-60db8d7427ca" width="150" height="300">
 <img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/8a48970e-d08e-40b6-a0c5-2f10b32db21a" width="150" height="300">
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/0eacd5d0-4a26-447c-92d5-f03977a5a659" width="150" height="300">
 <img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/fb9aac04-aad6-4579-9f55-a716921dbe65" width="150" height="300">  
 
 # Key Features  
