@@ -56,31 +56,35 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <th> Name </th>
     <th> Surname </th>
-    <th> Github user </th>
+    <th> Github User </th>
     <th> Course of study </th>
     <th> University </th>
   </tr>
   <tr>
     <td> Alesja </td>
     <td> Kopylova </td>
+    <td>  </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
     <td> Victor </td>
     <td> Rebhan </td>
+    <td> martinLooter </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
     <td> Huyen </td>
     <td> Than Ta </td>
+    <td>  </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
     <td> Tobias </td>
     <td> Heinzlmair </td>
+    <td>  </td>
     <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
@@ -94,6 +98,7 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <td> Enes </td>
     <td> Yagci </td>
+    <td> enes-yagci </td>
     <td> Business Informatics </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
