@@ -42,18 +42,13 @@ Have a look through all the new friends that you’ve just made.
 # 🚀 Getting Started
 You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876) for yourself. 
 
-<br></br>
-
 
 # 📚 Documentation
 You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)  
 
-<br></br>
 
 # 🌍 Our GitHub Page
 You can access our GitHub page [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/page)  
-
-<br></br>
 
 # 🤝 Team  
 Our project is brought to life by a dedicated team of visionaries and innovators:  
@@ -65,4 +60,8 @@ Tobias Heinzlmair
 Daniel Selewski  
 Enes Yagci  
 
-Thank you for being a part of our journey! Let's Integrate for a better world.
+<br></br>
+
+# Thank you for being a part of our journey! Let's Integrate for a better world.
+![image](https://github.com/Real-Projects-Digitalization/INTEGREAT/assets/56035923/1c5c7995-f062-49ee-8b48-28bbab52fa30)
+
