@@ -41,7 +41,9 @@ Have a look through all the new friends that you’ve just made.
 <br></br>
 
 # 🚀 Getting Started
-You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876) for yourself.
+You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876) for yourself. 
+   
+[<img src="https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/assets/56035923/29653250-caa2-4cac-a54f-0b6fa7faf73a" width="150" height="300">](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876)
 
 <br></br>
 
@@ -52,7 +54,7 @@ You can access our GitHub Wiki for detailed documentation [here.](https://github
 <br></br>
 
 # 🌍 Our GitHub Page
-You can access our GitHub page here.
+You can access our GitHub page [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/page)  
 
 <br></br>
 
