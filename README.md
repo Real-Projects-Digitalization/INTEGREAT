@@ -1,5 +1,5 @@
 # Project Integrate 
-<img src="/images/MainImage.png" alt="MainImage">
+<img src="/images/MainImage.png" alt="MainImage.png">
 
 
 # 🎯Our Vision
