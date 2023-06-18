@@ -1,5 +1,4 @@
 # Project Integrate 
-![MainImage](images/MainImage.png)
 <img src="/images/MainImage.png" alt="MainImage">
 
 
@@ -13,7 +12,10 @@ Refugees often face a plethora of challenges including communication barriers, l
 We offer Integrate, a platform that strives to bridge the gap between refugees and local Germans. Through our features like event discovery, event creation, user profiles, and more, we empower refugees to overcome their challenges and thrive. Our platform is designed to serve a diverse range of users. Whether you are a refugee struggling to integrate into a new society, an NGO worker trying to help refugees settle, or a local resident seeking to extend your social network and understanding of different cultures, Integrate is your go-to solution.
 
 
-<img src=images/Discover.png width="150" height="300"> <img src=images/EventImage.png width="150" height="300"><img src=images/User.png width="150" height="300"><img src=images/CreateEvent.png width="150" height="300"><img src=images/Contacts.png width="150" height="300">
+<img src=images/Discover.png  width="150" height="300" alt="MainImage"> <img src=images/EventImage.png width="150" height="300" alt="MainImage">
+<img src=images/User.png width="150" height="300" alt="MainImage">
+<img src=images/CreateEvent.png width="150" height="300" alt="MainImage">
+<img src=images/Contacts.png width="150" height="300" alt="MainImage">
 
 # Key Features  
 🎫 Discover Events  
