@@ -43,7 +43,7 @@ Have a look through all the new friends that you’ve just made.
 You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRFBgD3iVhPM/Group7---Entrepreneur?type=design&node-id=200-2154&scaling=scale-down&page-id=0%3A1&starting-point-node-id=200%3A876) for yourself. 
 
 # 💬 Frequently Asked Questions
-Frequently asked questions you can find [here.](https://github.com/Real-Projects-Digitalization/INTEGREAT/blob/main/FAQ)
+Frequently asked questions you can find [here.](https://github.com/Real-Projects-Digitalization/INTEGREAT/wiki/FAQs)
 
 # 🌍 Our GitHub Page
 You can access our GitHub page [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/page)  
