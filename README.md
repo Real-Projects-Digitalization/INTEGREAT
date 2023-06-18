@@ -46,7 +46,7 @@ You are welcome to try [our prototype](https://www.figma.com/proto/QAGydlVljpiRF
 Frequently asked questions you can find [here.](https://github.com/Real-Projects-Digitalization/INTEGREAT/wiki/FAQs)
 
 # 🌍 Our GitHub Page
-You can access our GitHub page [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/page)  
+You can access our GitHub page [here.](https://real-projects-digitalization.github.io/INTEGREAT/)  
 
 # 🤝 Team  
 Our project is brought to life by a dedicated team of visionaries and innovators:  
