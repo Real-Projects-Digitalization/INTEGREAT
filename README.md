@@ -75,9 +75,9 @@ Our project is brought to life by a dedicated team of visionaries and innovators
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
-    <td> Huyen Thanh </td>
+    <td> Huyen </td>
     <td> Ta </td>
-    <td>  </td>
+    <td> hta44 </td>
     <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
