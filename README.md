@@ -75,10 +75,10 @@ Our project is brought to life by a dedicated team of visionaries and innovators
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
-    <td> Huyen </td>
-    <td> Than Ta </td>
+    <td> Huyen Thanh </td>
+    <td> Ta </td>
     <td>  </td>
-    <td> Business Informatics </td>
+    <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
