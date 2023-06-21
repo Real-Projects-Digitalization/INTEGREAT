@@ -63,8 +63,8 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <td> Alesja </td>
     <td> Kopylova </td>
-    <td>  </td>
-    <td> Business Informatics </td>
+    <td> Kopales </td>
+    <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Our project is brought to life by a dedicated team of visionaries and innovators
   <tr>
     <td> Tobias </td>
     <td> Heinzlmair </td>
-    <td>  </td>
+    <td> Zottel3 </td>
     <td> Business Administration </td>
     <td >University of Applied Sciences Munich </td>
   </tr>
