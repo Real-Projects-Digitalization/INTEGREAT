@@ -49,60 +49,6 @@ You can access our GitHub page [here.](https://real-projects-digitalization.gith
 # 📚 Documentation
 You can access our GitHub Wiki for detailed documentation [here.](https://github.com/Real-Projects-Digitalization/ss22-team-7-sose23/wiki)
 
-# 🤝 Team  
-Our project is brought to life by a dedicated team of visionaries and innovators:  
-
-<table>
-  <tr>
-    <th> Name </th>
-    <th> Surname </th>
-    <th> Github User </th>
-    <th> Course of study </th>
-    <th> University </th>
-  </tr>
-  <tr>
-    <td> Alesja </td>
-    <td> Kopylova </td>
-    <td> Kopales </td>
-    <td> Business Administration </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-  <tr>
-    <td> Victor </td>
-    <td> Rebhan </td>
-    <td> martinLooter </td>
-    <td> Business Informatics </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-  <tr>
-    <td> Huyen </td>
-    <td> Ta </td>
-    <td> hta44 </td>
-    <td> Business Administration </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-  <tr>
-    <td> Tobias </td>
-    <td> Heinzlmair </td>
-    <td> Zottel3 </td>
-    <td> Business Administration </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-  <tr>
-    <td> Daniel </td>
-    <td> Selewski </td>
-    <td> DangleDan </td>
-    <td> Business Informatics </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-  <tr>
-    <td> Enes </td>
-    <td> Yagci </td>
-    <td> enes-yagci </td>
-    <td> Business Informatics </td>
-    <td >University of Applied Sciences Munich </td>
-  </tr>
-</table>
 
 # Thank you for being a part of our journey! Let's Integrate for a better world.
 ![Pitch](images/Pitch.png)
